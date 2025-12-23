@@ -1,10 +1,10 @@
 const answers_no = {
     english: [
         "No",
-        "Are you sure?",
+        "Are you sure cutiee?",
         "Are you really sure??",
         "Are you really realy sure???",
-        "Think again?",
+        "Think again cutiee for me?",
         "Don't believe in second chances?",
         "Why are you being so cold?",
         "Maybe we can talk about it?",
@@ -14,7 +14,7 @@ const answers_no = {
         "Why are you doing this to me?",
         "Please give me a chance!",
         "I am begging you to stop!",
-        "Ok, Let's just start over.."
+        "Ok, chaloo ab maan bhi jaao.."
     ],
     french: [
         "Non",
@@ -148,6 +148,6 @@ function changeLanguage() {
     } else if (language === "thai") {
         successMessage.textContent = "ฮูเร่ คืนดีกันแล้วน้า :3";
     } else {
-        successMessage.textContent = "Yepppie, see you sooonnn :3";
+        successMessage.textContent = "Yepppie, see you sooonnn cutiee :3";
     }
 }
