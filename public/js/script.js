@@ -148,6 +148,10 @@ function changeLanguage() {
     } else if (language === "thai") {
         successMessage.textContent = "ฮูเร่ คืนดีกันแล้วน้า :3";
     } else {
-        successMessage.textContent = "Yepppie, see you sooonnn cutiee :3";
+        successMessage.textContent = "Yepppie, see you sooonnn cutiee :3"
+           " Maine khud ko kabhi itni nazaron se nahi dekha tha,"
+           " Jitna haseen tumne mujhe 'apna' keh kar bana diya."
+            "Tumhara mujhe chunna mere liye sabse bada inaam hai,"
+            "Ab meri har subah aur har sham sirf tumhare naam hai";
     }
 }
